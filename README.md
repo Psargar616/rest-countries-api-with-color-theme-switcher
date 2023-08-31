@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Psargar616/rest-countries-api-with-color-theme-switcher)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/Psargar616/rest-countries-api-with-color-theme-switcher)
+- Live Site URL: [live site URL](https://psargar616.github.io/rest-countries-api-with-color-theme-switcher/)
 
 ## My process
 
